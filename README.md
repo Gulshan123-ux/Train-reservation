@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning a *AI & ML*
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gulshan-sharma-75](https://www.linkedin.com/in/gulshan-sharma-75)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gulshan-sharma-75b1a3325](https://www.linkedin.com/in/gulshan-sharma-75b1a3325)
 
 - 💬 Ask me about *Anything, Everything*
 
