@@ -31,4 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsahan123-ux&show_icons=true&locale=en&layout=compact" alt="gulshan123-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshan123-ux&show_icons=true&locale=en" alt="gulshan123-ux" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshan123-ux&" alt="gulshan123-ux" /></p
 
