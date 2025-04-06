@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning a *AI & ML*
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gulshan-sharma](https://www.linkedin.com/in/gulshan-sharma)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gulshan-sharma-75](https://www.linkedin.com/in/gulshan-sharma-75)
 
 - 💬 Ask me about *Anything, Everything*
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gulshan-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshansharma123-ux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gulshan-sharma-75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshansharma123-ux" height="30" width="40" /></a>
 <a href="https://instagram.com/@gulshan-shaarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gulshan-shaarma" height="30" width="40" /></a>
 </p>
 
